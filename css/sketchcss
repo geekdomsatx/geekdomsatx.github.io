@@ -1,0 +1,60 @@
+/* Rectangle 1: */
+background: #FFFFFF;
+
+border-radius: 8px;
+/* Rectangle 2: */
+background: #FFFFFF;
+border: 1px solid #979797;
+
+/* 06-magnify@2x: */
+background: #979797;
+
+font-family: Roboto-Light;
+font-size: 18px;
+color: #9B9B9B;
+line-height: 24px;
+/* HOME          ABOUT : */
+
+/* Line: */
+border: 1px solid #E8E8E8;
+
+/* Line 2: */
+border: 1px solid #E8E8E8;
+
+/* Rectangle 9: */
+background: #D0021B;
+
+font-family: Roboto-Light;
+font-size: 20px;
+color: #FFFFFF;
+line-height: 26px;
+/* JOIN: */
+
+/* picons03: */
+background: #FFFFFF;
+
+/* picons38: */
+background: #FFFFFF;
+
+/* picons06: */
+background: #FFFFFF;
+
+/* Geekdom Logo (Black & Red): */
+
+/* picons03: */
+background: #D8D8D8;
+
+/* picons38: */
+background: #D8D8D8;
+
+/* picons06: */
+background: #D8D8D8;
+
+/* Geekdom-Crown-White: */
+background: #D8D8D8;
+
+/* Line 2: */
+border: 1px solid #E8E8E8;
+
+/* Line 3: */
+border: 1px solid #E8E8E8;
